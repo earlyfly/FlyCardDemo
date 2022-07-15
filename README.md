@@ -1,4 +1,4 @@
 # FlyCardDemo
 飞卡效果
 
-https://github.com/earlyfly/FlyCardDemo/blob/main/demo.gif?raw=true
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/earlyfly/FlyCardDemo/blob/main/demo.gif)
